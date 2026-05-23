@@ -1,21 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on Python, Web scraping, Automation, Web Dev(Nextjs, Tailwind CSS) Game Dev (Unity), Mobile Dev(Flutter), Firebase, SQL<br><br>🌱 I’m currently learning Data Analysis using PowerBI<br><br>👨‍💻 All of my projects are available at https://github.com/hadi-14<br><br>📫 How to reach me hadimillwala@gmail.com<br><br>⚡ I love Data
+# Hi, I'm Abdul Hadi Millwala 👋
 
+**Full-Stack Developer** based in Karachi, Pakistan.
+4 years of production experience building web apps, 
+data pipelines, and mobile applications.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hadimillwala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hadi-millwala) 
+## 🚀 What I Build
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hadi-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hadi-14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **Web Apps** — Next.js, TypeScript, Tailwind CSS, PostgreSQL
+- **Data Pipelines** — Python ETL, Power BI, AWS EC2
+- **AI Tools** — LangChain, Text-to-SQL, ChromaDB
+- **Mobile Apps** — Flutter, Firebase
+- **Automation** — Selenium, ADB, OpenCV, PyAutoGUI
+- **Browser Extensions** — Chrome, Brave
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hadi-14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Live Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=hadi-14&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | Stack | Link |
+|---|---|---|
+| Habibians Academy LMS | Next.js, TypeScript, MS SQL | [habibiansacademy.org](https://habibiansacademy.org) |
+| JWMJ Community Platform | Next.js, TypeScript, PostgreSQL | [jwmj.org](https://jwmj.org) |
+| CaClinics ETL System | Python, PostgreSQL, Power BI, AWS | Private |
+| Franchise Management App | Flutter, Firebase, REST API | Private |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+## 📫 Contact
+
+- **Email:** hadimillwala@gmail.com
+- **Portfolio:** [abdul-hadi-millwala.vercel.app](https://abdul-hadi-millwala.vercel.app)
+- **LinkedIn:** [linkedin.com/in/abdul-hadi-millwala](https://linkedin.com/in/abdul-hadi-millwala)
+- **Fiverr:** [fiverr.com/abdulhadi599](https://fiverr.com/abdulhadi599)
